@@ -5,3 +5,4 @@
   * [1.1 subpage](chapter-1/1.1-subpage.md)
 * [Chapter 2](chapter-2/README.md)
   * [2.1 subpage](chapter-2/2.1-subpage.md)
+* [Chapter 3](chapter-3.md)
